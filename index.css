@@ -1,0 +1,1098 @@
+/*
+	@name index
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1352px; width: 1352px;  overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_index_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1352px;
+	height: 2186px;
+}
+
+#_bg__index_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1352px;
+	height: 2186px;
+	background:rgba(255,255,255,1);
+}
+
+#head_frame {
+	top: 0px;
+	left: 0px;
+	width: 1352px;
+	height: 721px;
+}
+
+#rectangle_24 {
+	top: 0px;
+	left: 0px;
+	width: 1352px;
+	height: 2186px;
+	background:rgba(0,0,0,1);
+}
+
+
+#map_1 {
+	top: 116px;
+	left: 383px;
+	width: 970px;
+	height: 728px;
+}
+
+
+#man_1 {
+	top: 55px;
+	left: 730px;
+	width: 680px;
+	height: 725px;
+}
+
+#frame_b {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 92px;
+}
+
+#logo_1 {
+	top: 13px;
+	left: 110px;
+	width: 490px;
+	height: 60px;
+}
+
+
+#home {
+	top: 29px;
+	left: 919px;
+	width: 65.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_contact {
+	top: 29px;
+	left: 1029px;
+	width: 81.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#get_started {
+	top: 28px;
+	left: 1150px;
+	width: 100px;
+	height: 30px;
+	-ms-border-radius: 31px;
+	-o-border-radius: 31px;
+	-moz-border-radius: 31px;
+	-webkit-border-radius: 31px;
+	border-radius: 31px;
+	background:rgba(150,0,0,1);
+}
+
+
+#_login {
+	top: 32px;
+	left: 1189px;
+	width: 62.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#vector {
+	top: 32px;
+	left: 1156px;
+	width: 24px;
+	height: 23px;
+}
+
+#frame_a {
+	top: 154px;
+	left: 54px;
+	width: 814px;
+	height: 526px;
+}
+
+#rectangle_1 {
+	top: 408px;
+	left: 68px;
+	width: 469px;
+	height: 10px;
+	-ms-border-radius: 23px;
+	-o-border-radius: 23px;
+	-moz-border-radius: 23px;
+	-webkit-border-radius: 23px;
+	border-radius: 23px;
+	background:rgba(146,0,0,1);
+}
+
+
+#we_are_the_people_s_first_line_of_defense_ {
+	top: 23px;
+	left: 68px;
+	width: 783px;
+	height: 424px;
+	overflow: hidden;
+	font-family: Lalezar;
+	font-size: 100px;
+	text-align: left;
+	line-height: 39.200001955032px;
+	padding-top: 60.799998044968px;
+	margin-top: -60.799998044968px;
+	color:#FFFFFF;
+}
+
+
+#get_started_ek1 {
+	top: 433px;
+	left: 68px;
+	width: 281px;
+	height: 54px;
+	-ms-border-radius: 12px;
+	-o-border-radius: 12px;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+	background:rgba(217,217,217,1);
+}
+
+
+#get_started_ek2 {
+	top: 445px;
+	left: 106px;
+	width: 303.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 35px;
+	text-align: left;
+	line-height: 28.945000767708px;
+	padding-top: 6.0549992322922px;
+	margin-top: -6.0549992322922px;
+	color:#000000;
+}
+
+
+#we_accomplish_what_others_cannot_accomplish_and_go_where_others_cannot_go_ {
+	top: 361px;
+	left: 68px;
+	width: 475px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.54000043869px;
+	padding-top: 3.4599995613098px;
+	margin-top: -3.4599995613098px;
+	color:#FFFFFF;
+}
+
+#agency_frame {
+	top: 704px;
+	left: 0px;
+	width: 1353px;
+	height: 398px;
+}
+
+#rectangle_10 {
+	top: 62px;
+	left: 243px;
+	width: 868px;
+	height: 299px;
+	-ms-border-radius: 9px;
+	-o-border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	background:rgba(66.94,62.75,62.75,1);
+}
+
+
+#our_agency {
+	top: 97px;
+	left: 576px;
+	width: 211px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	text-align: center;
+	line-height: 24.810000658035px;
+	padding-top: 5.1899993419647px;
+	margin-top: -5.1899993419647px;
+	color:#FDF8F8;
+}
+
+
+#the_decentralized_intelligence_agency__dia__is_a_group_of_effective_altruists_propelling_humanity_forward_by_creating_and_supporting_projects_that_oppose_the_establishment_and_centralized_oppression__we_organize_great_minds__esoteric_information__and_shared_resources_in_order_to_create_public_good__we_are_rebels_with_a_cause__opposing_the_narrative_of_control_by_the_few__we_believe_in_acts_of_truth__love__and_labor__while_there_is_no_direct_application_for_the_dia__we_have_active_sniffer_bots_that_lead_us_to_those_that_fall_in_line_with_our_values__if_you_have_thoughts_about_the_future_of_blockchain__agi__asi__the_singularity__effective_altruism__cults__and_religions_please_reach_out_to_an_agent_ {
+	top: 89.5px;
+	left: 275px;
+	width: 811px;
+	height: 284.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: center;
+	line-height: 20.055000185966px;
+	color:#FFFFFF;
+}
+
+#footer_frame {
+	top: 2042px;
+	left: 0px;
+	width: 1353px;
+	height: 144px;
+}
+#connect_with_us {
+	top: 54px;
+	left: 429px;
+	width: 496px;
+	height: 73px;
+}
+
+#___persist_ventures___all_rights_reserved {
+	top: 46.74px;
+	left: 52.18px;
+	width: 412.31px;
+	height: 20.76px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: center;
+	line-height: 12.405000329018px;
+	padding-top: 2.5949996709824px;
+	margin-top: -2.5949996709824px;
+	color:#FFFFFF;
+}
+
+
+#connect_with_us_ek1 {
+	top: -20px;
+	left: 170.75px;
+	width: 192.63px;
+	height: 24.26px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.54000043869px;
+	padding-top: 3.4599995613098px;
+	margin-top: -3.4599995613098px;
+	color:#FFFFFF;
+}
+
+
+#twitter_1 {
+	top: 4px;
+	left: 221px;
+	width: 67.04px;
+	height: 32.58px;
+}
+
+#factbook_frame {
+	top: 1422px;
+	left: 0px;
+	width: 1353px;
+	height: 620px;
+}
+#world_factbook {
+	top: 0px;
+	left: 0px;
+	width: 1353px;
+	height: 630px;
+}
+
+#wallpaperflare_1 {
+	top: 0px;
+	left: 0px;
+	width: 1353px;
+	height: 630px;
+}
+
+
+#rectangle_4 {
+	opacity:0.69999998807907;
+	top: 76px;
+	left: 413px;
+	width: 530.62px;
+	height: 446px;
+	-ms-border-radius: 34px;
+	-o-border-radius: 34px;
+	-moz-border-radius: 34px;
+	-webkit-border-radius: 34px;
+	border-radius: 34px;
+	background:rgba(57.37,53.55,53.55,0.7);
+}
+
+
+#rectangle_5 {
+	top: 434px;
+	left: 519.68px;
+	width: 312.72px;
+	height: 68px;
+	-ms-border-radius: 36px;
+	-o-border-radius: 36px;
+	-moz-border-radius: 36px;
+	-webkit-border-radius: 36px;
+	border-radius: 36px;
+	background:rgba(146,0,0,1);
+}
+
+
+#the_world_factbook {
+	top: 152px;
+	left: 408.29px;
+	width: 550.17px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24.810000658035px;
+	padding-top: 5.1899993419647px;
+	margin-top: -5.1899993419647px;
+	color:#FFFFFF;
+}
+
+
+#visit_world_factbook {
+	top: 459px;
+	left: 516.88px;
+	width: 327.3px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: center;
+	line-height: 16.54000043869px;
+	padding-top: 3.4599995613098px;
+	margin-top: -3.4599995613098px;
+	color:#FBFBFB;
+}
+
+
+#explore_the_globe__dia_style__learn_about_the_world_s_regions__countries__oceans__and_so_much_more_ {
+	top: 217px;
+	left: 408.01px;
+	width: 551px;
+	height: 211px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	text-align: center;
+	line-height: 24.810000658035px;
+	padding-top: 5.1899993419647px;
+	margin-top: -5.1899993419647px;
+	color:#FFFFFF;
+}
+
+#legacy {
+	top: 1102px;
+	left: 0px;
+	width: 1353px;
+	height: 320px;
+}
+
+#dia_logo_high_res__1 {
+	top: -12px;
+	left: 92px;
+	width: 478px;
+	height: 332px;
+}
+
+
+#dia_is_an_exciting_podcast_that_features_overlooked_or_unfamiliar_aspects_of_dia__including_what_we_do_and_the_countless_ways_we_ve_impacted_the_lives_of_people_around_the_world__since_its_creation_in_1961__dia_has_been_the_nation_s_premier_all_source_military_intelligence_organization__our_team_at_dia_deploys_globally__alongside_warfighters_and_interagency_partners__to_defend_america_s_national_security_interests__but__as_this_podcast_series_reveals__we_are_so_much_more_ {
+	top: 85px;
+	left: 586px;
+	width: 731px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	line-height: 26.740000247955px;
+	color:#FFFFFF;
+}
+
+
+#about_dia {
+	top: 48px;
+	left: 581px;
+	width: 174px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24.810000658035px;
+	padding-top: 5.1899993419647px;
+	margin-top: -5.1899993419647px;
+	color:#FDF8F8;
+}
+
+#page_contact_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1330px;
+	height: 716px;
+}
+
+#_bg__contact_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1330px;
+	height: 716px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_25 {
+	top: 0px;
+	left: 0px;
+	width: 1330px;
+	height: 716px;
+	background:rgba(0,0,0,1);
+}
+
+
+#rectangle_23 {
+	top: -265px;
+	left: 0px;
+	width: 1352px;
+	height: 2212px;
+	background:rgba(3.19,3.19,3.19,1);
+}
+
+#head_frame_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1330px;
+	height: 716px;
+}
+
+#map_1_ek1 {
+	top: 223px;
+	left: 520px;
+	width: 970px;
+	height: 728px;
+}
+
+#frame_b_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1330px;
+	height: 92px;
+}
+
+#logo_1_ek1 {
+	top: 13px;
+	left: 110px;
+	width: 490px;
+	height: 60px;
+}
+
+
+#_home_ek1 {
+	top: 29px;
+	left: 876px;
+	width: 65.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#contact_ek1 {
+	top: 29px;
+	left: 986px;
+	width: 81.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#get_started_ek3 {
+	top: 28px;
+	left: 1112px;
+	width: 100px;
+	height: 30px;
+	-ms-border-radius: 31px;
+	-o-border-radius: 31px;
+	-moz-border-radius: 31px;
+	-webkit-border-radius: 31px;
+	border-radius: 31px;
+	background:rgba(150,0,0,1);
+}
+
+
+#_login_ek1 {
+	top: 32px;
+	left: 1152px;
+	width: 62.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#vector_ek1 {
+	top: 32px;
+	left: 1118.18px;
+	width: 22.17px;
+	height: 23px;
+}
+
+
+#rectangle_21 {
+	top: 117px;
+	left: 710px;
+	width: 674px;
+	height: 604px;
+}
+
+
+#rectangle_12 {
+	opacity:0.7;
+	top: 178px;
+	left: 168px;
+	width: 342px;
+	height: 317px;
+	-ms-border-radius: 29px;
+	-o-border-radius: 29px;
+	-moz-border-radius: 29px;
+	-webkit-border-radius: 29px;
+	border-radius: 29px;
+	background:rgba(63.75,59.5,59.5,1);
+}
+
+
+#lastname {
+	top: 200px;
+	left: 191px;
+	width: 95.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FDFBFB;
+}
+
+
+#firstname {
+	top: 200px;
+	left: 348px;
+	width: 99.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FDFBFB;
+}
+
+
+#email {
+	top: 279px;
+	left: 191px;
+	width: 61.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FDFBFB;
+}
+
+
+#message {
+	top: 359px;
+	left: 191px;
+	width: 88.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FDFBFB;
+}
+
+
+#rectangle_17 {
+	top: 228px;
+	left: 185px;
+	width: 147px;
+	height: 31px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	background:rgba(253.94,246.53,246.53,1);
+}
+
+
+#rectangle_22 {
+	top: 228px;
+	left: 345px;
+	width: 147px;
+	height: 31px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	background:rgba(253.94,246.53,246.53,1);
+}
+
+
+#rectangle_18 {
+	top: 308px;
+	left: 185px;
+	width: 307px;
+	height: 31px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	background:rgba(253.94,246.53,246.53,1);
+}
+
+
+#rectangle_20 {
+	top: 444px;
+	left: 193px;
+	width: 288px;
+	height: 41px;
+	-ms-border-radius: 12px;
+	-o-border-radius: 12px;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+	background:rgba(28.69,28.33,28.33,1);
+}
+
+
+#rectangle_19 {
+	top: 387px;
+	left: 185px;
+	width: 313px;
+	height: 46px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	background:rgba(253.94,246.53,246.53,1);
+}
+
+
+#submit {
+	top: 455px;
+	left: 293px;
+	width: 112.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 7.275px;
+	color:#FFFFFF;
+}
+
+
+#contact_us {
+	top: 137px;
+	left: 178px;
+	width: 152px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#mail_contact {
+	top: 137px;
+	left: 318px;
+	width: 23px;
+	height: 34px;
+}
+
+#footer_frame_ek1 {
+	top: 747px;
+	left: 0px;
+	width: 1436px;
+	height: 144px;
+}
+#connect_with_us_ek2 {
+	top: 551px;
+	left: 91px;
+	width: 496px;
+	height: 73px;
+}
+
+#___persist_ventures___all_rights_reserved_ek1 {
+	top: 46.74px;
+	left: 52.18px;
+	width: 412.31px;
+	height: 20.76px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: center;
+	line-height: 12.405000329018px;
+	padding-top: 2.5949996709824px;
+	margin-top: -2.5949996709824px;
+	color:#FFFFFF;
+}
+
+
+#connect_with_us_ek3 {
+	top: -20px;
+	left: 170.75px;
+	width: 190.63px;
+	height: 23.26px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	line-height: 14.886000394821px;
+	padding-top: 3.1139996051788px;
+	margin-top: -3.1139996051788px;
+	color:#FFFFFF;
+}
+
+
+#twitter_1_ek1 {
+	top: 4px;
+	left: 221px;
+	width: 67.04px;
+	height: 32.58px;
+}
+
+#page_login_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1354px;
+	height: 688px;
+}
+
+#_bg__login_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1354px;
+	height: 688px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_26 {
+	top: 0px;
+	left: 0px;
+	width: 1354px;
+	height: 688px;
+	background:rgba(0,0,0,1);
+}
+
+#head_frame_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1320px;
+	height: 681px;
+}
+
+#map_1_ek2 {
+	top: 3px;
+	left: 164px;
+	width: 965px;
+	height: 686px;
+}
+
+#frame_b_ek2 {
+	top: 3px;
+	left: 0px;
+	width: 1318px;
+	height: 92px;
+}
+
+#logo_1_ek2 {
+	top: 13px;
+	left: 110px;
+	width: 490px;
+	height: 60px;
+}
+
+
+#_home_ek2 {
+	top: 29px;
+	left: 870px;
+	width: 65.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_contact_ek2 {
+	top: 29px;
+	left: 980px;
+	width: 81.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#get_started_ek4 {
+	top: 28px;
+	left: 1106px;
+	width: 100px;
+	height: 30px;
+	-ms-border-radius: 31px;
+	-o-border-radius: 31px;
+	-moz-border-radius: 31px;
+	-webkit-border-radius: 31px;
+	border-radius: 31px;
+	background:rgba(150,0,0,1);
+}
+
+
+#login_ek2 {
+	top: 32px;
+	left: 1146px;
+	width: 62.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#users_1_ek2 {
+	top: 28px;
+	left: 1203px;
+	width: 33px;
+	height: 28px;
+	background:rgba(255,255,255,0);
+}
+
+
+#vector_ek2 {
+	top: 31px;
+	left: 1111.33px;
+	width: 21.97px;
+	height: 23px;
+}
+
+#login_form {
+	top: 258px;
+	left: 556px;
+	width: 276px;
+	height: 143px;
+}
+
+#rectangle_13 {
+	top: 0px;
+	left: 0px;
+	width: 276px;
+	height: 40.5px;
+	-ms-border-radius: 13px;
+	-o-border-radius: 13px;
+	-moz-border-radius: 13px;
+	-webkit-border-radius: 13px;
+	border-radius: 13px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_14 {
+	top: 48.09px;
+	left: 0px;
+	width: 276px;
+	height: 40.5px;
+	-ms-border-radius: 13px;
+	-o-border-radius: 13px;
+	-moz-border-radius: 13px;
+	-webkit-border-radius: 13px;
+	border-radius: 13px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_15 {
+	top: 103.77px;
+	left: 0px;
+	width: 276px;
+	height: 39.23px;
+	-ms-border-radius: 13px;
+	-o-border-radius: 13px;
+	-moz-border-radius: 13px;
+	-webkit-border-radius: 13px;
+	border-radius: 13px;
+	background:rgba(149,0,0,1);
+}
+
+
+#username {
+	top: 7px;
+	left: 53px;
+	width: 218px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 6.7px;
+	color:#3F3B3B;
+}
+
+
+#password {
+	top: 54px;
+	left: 53px;
+	width: 235px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 6.7px;
+	color:#3F3B3B;
+}
+
+
+#login_ek3 {
+	top: 108px;
+	left: 91px;
+	width: 159px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 6.7px;
+	color:#3F3B3B;
+}
+
+#connect_with_us_ek4 {
+	top: 523px;
+	left: 446px;
+	width: 496px;
+	height: 73px;
+}
+
+#___persist_ventures___all_rights_reserved_ek2 {
+	top: 46.74px;
+	left: 52.18px;
+	width: 412.31px;
+	height: 20.76px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: center;
+	line-height: 12.405000329018px;
+	padding-top: 2.5949996709824px;
+	margin-top: -2.5949996709824px;
+	color:#FFFFFF;
+}
+
+
+#connect_with_us_ek5 {
+	top: -20px;
+	left: 170.75px;
+	width: 190.63px;
+	height: 23.26px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	line-height: 14.886000394821px;
+	padding-top: 3.1139996051788px;
+	margin-top: -3.1139996051788px;
+	color:#FFFFFF;
+}
+
+
+#twitter_1_ek2 {
+	top: 4px;
+	left: 221px;
+	width: 67.04px;
+	height: 32.58px;
+}
+
+
+#user {
+	top: 258px;
+	left: 564px;
+	width: 31px;
+	height: 44px;
+}
+
+
+#lock {
+	top: 305px;
+	left: 564px;
+	width: 31px;
+	height: 44px;
+}
+
+
+
+/* Add your custom CSS here */
